@@ -4,6 +4,6 @@
 
 # Update Package Index:
 
-`sudo apt update`
-![apt update](./images/image_4.PNG "sudo apt update")
+`sudo apt updatee`
+![apt update](./images/image_5.PNG "sudo apt update")
 
