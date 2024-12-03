@@ -5,4 +5,4 @@
 # Update Package Index:
 
 `sudo apt update`
-![configure_lemp_php](./IMAGES/configure_lemp_php.png "PHP CONFIGURATION")
+![apt update](./images/apt update.PNG "sudo apt update")
