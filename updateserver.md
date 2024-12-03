@@ -5,4 +5,4 @@
 # Update Package Index:
 
 `sudo apt update`
-![apt update](./images/apt update.PNG "sudo apt update")
+![apt update](./images/apt_update.PNG "sudo apt update")
